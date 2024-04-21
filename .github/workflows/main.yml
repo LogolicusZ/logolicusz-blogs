@@ -17,4 +17,4 @@ jobs:
       env:
         REPOSITORY: LogolicusZ/blog.logolicusz.com
         PAGES_BRANCH: main
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
