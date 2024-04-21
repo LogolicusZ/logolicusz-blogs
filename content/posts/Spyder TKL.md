@@ -1,7 +1,7 @@
 +++
 title = "Spyder TKL"
 date = "2024-04-21"
-description = "See how to config your archie theme"
+description = "Read more about the Spyder TKL and its Inspirations"
 
 [taxonomies]
 tags = ["showcase"]
