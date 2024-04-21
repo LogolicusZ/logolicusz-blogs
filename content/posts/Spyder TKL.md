@@ -7,12 +7,8 @@ description = "See how to config your archie theme"
 tags = ["showcase"]
 
 [extra]
-author = { name = "XXXMRG", social= "https://github.com/XXXMrG" }
+author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 +++
-
-# Spyder TKL 
-
----
 
 This is an Article on the Spyder TKL 
 
