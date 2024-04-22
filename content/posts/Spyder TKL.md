@@ -20,4 +20,6 @@ Speeding trough the years, the spyder went trough numerous changes build up to t
   
 <img src="/imgs/Spyder-article/car1.jpg" alt="Spyder 550" title="Image by extra Prius" class="carImage">
   
-Photo of the Spyder TKL by [Markus Spiske](https://unsplash.com/photos/a-close-up-of-a-car-parked-in-a-field-UhTNl-xLOCU)
+Photo of the Spyder TKL by [Markus Spiske](https://unsplash.com/photos/a-close-up-of-a-car-parked-in-a-field-UhTNl-xLOCU)  
+
+Tho the Inspiration on of the Porsche is very light, as some of you that have been in this hobby for a while, will have noticed the a familiar sight of a particular wedge, its from the OTD360 corsa 
