@@ -2,7 +2,6 @@
 :root {
   --maincolor: #4361ee;
   --callouctcolor: dodgerblue;
-  --hovercolor: navy;
   --darkMaincolor: #548c2f;
   --bordercl: #4361ee;
   --darkbordercl:#548c2f;
@@ -51,7 +50,9 @@ body {
 p {
   /* font-family: 'Fira Sans', sans-serif; */
   line-height: 1.5;
+
 }
+
 
 hr {
   border: 0;
@@ -94,7 +95,7 @@ ul>li::before {
 /* Images */
 img {
   border: 3px solid #ececec;
-  max-width: 100%;
+  max-width: 60%;
   border-radius: 1%;
   max-height: auto;
 }
