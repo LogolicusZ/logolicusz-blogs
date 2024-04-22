@@ -13,6 +13,6 @@ author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 This is an Article on the Spyder TKL 
 
 
-![screenshot light](/imgs/test.jpg)
+![screenshot light](/imgs/Spyder-article/car1.jpg)
 
 

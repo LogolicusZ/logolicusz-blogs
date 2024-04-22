@@ -95,8 +95,10 @@ ul>li::before {
 img {
   border: 3px solid #ececec;
   max-width: 100%;
-  
+  border-radius: 1%;
+  max-height: auto;
 }
+
 
 figure {
   box-sizing: border-box;
