@@ -9,14 +9,16 @@ tags = ["showcase","keyboards"]
 [extra]
 author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 +++
+ 
+<img src="/imgs/Spyder-article/Spyder5.jpeg" alt="Spyder TKL Images" title="Image by extra Prius" class="TitleImage">
 
-![screenshot light](/imgs/Spyder-article/Spyder1.jpg)  
-
-Photo of the Spyder TKL by [Tylerkeyboard](https://www.instagram.com/tylerkeyboard/)
+Photo of the Spyder TKL by [Extrapriusplease](https://www.instagram.com/extrapriusplease.kb/)
 
 In 1953, Porsche introduced the 550 Spyder into the market at a Paris Motor Show. Also its Win in the LeMans of the same year made it a pivotal moment in its history. The 550 was a car with a smaller chassis compared to all of its competitors at the time and it proved itself being aerodynamically superior.
   
-Speeding trough the years, the spyder went trough numerous changes build up to the release of the 718 Spyder in 2015. Porsche payed homage to one of its best cars this past century, while still incorporating modern engineering advancements.  
+Speeding trough the years, the spyder went trough numerous changes build up to the release of the 718 Spyder in 2015. Porsche payed homage to one of its best cars this past century, while still incorporating modern engineering advancements. The 718 features aggressive fron edges and a spoiler reminiscent of the 718 Boxster.
+  
+![screenshot light](/imgs/Spyder-article/car1.jpg)
 
 
 

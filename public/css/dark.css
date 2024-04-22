@@ -121,9 +121,7 @@ a:hover {
     background-color: #333;
 }
 
-.soc:hover {
-    color: black;
-}
+
 
 .draft-label {
     color: var(--darkMaincolor);
