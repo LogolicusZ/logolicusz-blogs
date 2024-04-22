@@ -87,7 +87,7 @@ a {
 }
 
 a:hover {
-    border-bottom: 3px solid var(--maincolor);
+    border-bottom: 3px solid var(--darklinkHighlight);
 }
 
 .site-description a {
