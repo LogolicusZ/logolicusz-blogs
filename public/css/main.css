@@ -12,7 +12,7 @@
 }
 
 html {
-  color: #232333;
+  color: #191816;
   font-family: "Roboto Mono", monospace;
   font-size: 15px;
   line-height: 1.6em;
@@ -71,8 +71,7 @@ a {
 }
 
 a:hover {
-  background-color: var(--hovercolor);
-  color: #fff;
+  border-bottom: 3px solid var(--darkMaincolor);
 }
 
 ul {
@@ -93,6 +92,7 @@ ul>li::before {
 img {
   border: 3px solid #ececec;
   max-width: 100%;
+  border-radius: 1%;
 }
 
 figure {
