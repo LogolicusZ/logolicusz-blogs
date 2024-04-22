@@ -60,14 +60,10 @@ menus = [
 [[extra.social]]
 icon = "github"
 name = "GitHub"
-url = "https://github.com/XXXMrG/archie-zola"
+url = "https://github.com/LogolicusZ/logolicusz-blogs"
 
 [[extra.social]]
-icon = "Instagram"
+icon = "instagram"
 name = "Instagram"
 url = "https://github.com/XXXMrG/"
 
-[[extra.social]]
-icon = "gitlab"
-name = "GitLab"
-url = "https://gitlab.com/your-name/"
