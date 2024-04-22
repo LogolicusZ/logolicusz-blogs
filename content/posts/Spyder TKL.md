@@ -18,7 +18,6 @@ In 1953, Porsche introduced the 550 Spyder into the market at a Paris Motor Show
   
 Speeding trough the years, the spyder went trough numerous changes build up to the release of the 718 Spyder in 2015. Porsche payed homage to one of its best cars this past century, while still incorporating modern engineering advancements. The 718 features aggressive fron edges and a spoiler reminiscent of the 718 Boxster.
   
-![screenshot light](/imgs/Spyder-article/car1.jpg)
-
-
-
+<img src="/imgs/Spyder-article/car1.jpg" alt="Spyder 550" title="Image by extra Prius" class="carImage">
+  
+Photo of the Spyder TKL by [Markus Spiske](https://unsplash.com/photos/a-close-up-of-a-car-parked-in-a-field-UhTNl-xLOCU)
