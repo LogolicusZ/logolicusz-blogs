@@ -92,7 +92,7 @@ ul>li::before {
 img {
   border: 3px solid #ececec;
   max-width: 100%;
-  border-radius: 1%;
+  
 }
 
 figure {
@@ -292,10 +292,10 @@ article .title {
   border-bottom: 3px solid var(--maincolor);
 }
 
-.tags a:hover {
+/* .tags a:hover {
   color: white;
   background-color: var(--hovercolor);
-}
+} */
 
 svg {
   max-height: 15px;
