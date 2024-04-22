@@ -1,6 +1,6 @@
 body {
     color: white;
-    background-color: #191816;
+    background-color: #202124;
 
 }
 
@@ -28,7 +28,7 @@ code {
 }
 
 pre {
-    background-color: #191816;
+    background-color: #272822;
     line-height: 1.4;
     overflow-x: auto;
     padding: 1em;
@@ -87,7 +87,8 @@ a {
 }
 
 a:hover {
-    border-bottom: 3px solid var(--maincolor);
+    background-color: var(--darkMaincolor);
+    color: black;
 }
 
 .site-description a {
