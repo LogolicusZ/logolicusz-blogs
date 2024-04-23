@@ -37,7 +37,7 @@ The keyboard hobby has been moving more and more into the direction of instock s
   
 R2 will drop on the 15 may with a total number of 335 units available. Baion and Manu have also decided to add two more vendors and this time also having WK (Win Key) and HHKB (Happy Hacking Key Board) available besides WKL. The board will also have a two collabs, one being a collab with GMK Symbiote and another one with their own next project GMK Nerve. 
   
-I think everyone who joined R1 and will join R2 will enjoy this board. I think it hits a niche that many people will like. 
+Those who have already joined R1, as well as those who will join R2, can look forward to a board that caters to a well-liked niche.
 
 ## Sound Test
   
