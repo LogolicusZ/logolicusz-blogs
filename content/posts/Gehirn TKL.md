@@ -29,7 +29,7 @@ The biggest point of interest on the board has to be the weight, showing of a ex
    
 Also a very prominent feature of the board is Baions own "screw less" design the Baion bolts. On a typical screw less board there would be holes on the top and bottom of the PCB allowing you to screw together, many people dont like this since the screws can easily get lost inside of the case forcing you to open it all up again to get the one screw out. Baionbolts allow you to screw the case together the case on a 45° angle, also making it possible to use bigger screws, so that it is harder to loose the screws in the case.
 
-<img src="/imgs/Gehirn-article/Gehirn12.webp" alt="Gehirn TKL Images" title="Markerchun" class="TitleImage">
+<img src="/imgs/Gehirn-article/Gehirn12.webp" alt="Gehirn TKL Images" title="Baionlenja" class="TitleImage">
   
 <p class="image-text">Photo by <a href="https://www.instagram.com/baionlenja">Baionlenja</a></p>
   
