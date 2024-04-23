@@ -5,6 +5,8 @@ theme = "archie-zola"
 
 
 title = "LogolicusZ Blogs"
+
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -32,6 +34,7 @@ favicon = "/icon/favicon.svg"
 
 # show in the footer
 copyright = "LogolicusZ"
+
 
 # config your Google Analysis ID
 ga = "XXXX-XXXXX"
