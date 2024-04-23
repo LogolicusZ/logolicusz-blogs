@@ -1,7 +1,11 @@
+:root {
+    --highlight: #bffe1f3b;
+    --border-color: #ececec;
+}
+
 body {
     color: white;
     background-color: #191816;
-
 }
 
 ::-moz-selection {
@@ -11,7 +15,7 @@ body {
 }
 
 ::selection {
-    background: var(--darkHighlight);
+    background: var(--highlight);
     color: #fff;
     text-shadow: none;
 }

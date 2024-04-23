@@ -9,7 +9,7 @@
   --darklinkHighlight: #68b038;
 
   --highlight: #7a41f545;
-  --darkHighlight: #bffe1f3b;
+  --border-color: #393733;
 }
 
 html {
@@ -94,7 +94,7 @@ ul>li::before {
 
 /* Images */
 img {
-  border: 3px solid #ececec;
+  border: 3px solid var(--border-color);
   max-width: 60%;
   border-radius: 1%;
   max-height: auto;
@@ -112,7 +112,7 @@ iframe {
   width: 560px;
   height: 315px;
   border-radius: 1%;
-  border: 3px solid #ececec;
+  border: 3px solid var(--border-color);
 }
 
 @media screen and (max-width: 600px) {
@@ -346,6 +346,8 @@ svg {
 }
 
 pre {
+  border: 3px solid var(--border-color);
+  border-radius: 1%;
   font-family: "Roboto Mono", monospace;
   position: relative;
   -webkit-overflow-scrolling: touch;
@@ -481,4 +483,9 @@ p, h1, h2, h3, h4, h5, h6, code, pre {
 
 p.image-text {
   align-self: center;
+}
+
+/* code block tweaks */
+code {
+  border-radius: 8px;
 }
