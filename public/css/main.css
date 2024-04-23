@@ -108,6 +108,18 @@ img {
   max-width: 40%;
 }
 
+iframe {
+  width: 560px;
+  height: 315px;
+  
+}
+
+@media screen and (max-width: 600px) {
+  iframe {
+    width: 90%;
+    height: 95%;
+  }
+}
 figure {
   box-sizing: border-box;
   display: inline-block;

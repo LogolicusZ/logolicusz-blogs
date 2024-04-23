@@ -37,7 +37,7 @@ Check out Plywrks social if you want to know more about the board! The groupbuy 
 
 ## Sound Test
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQe-mQUS7KI?si=hxLRQGXMZsIjuqr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe  src="https://www.youtube.com/embed/cQe-mQUS7KI?si=hxLRQGXMZsIjuqr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
 ## Socials  
 Plywrks [Instagram](https://www.instagram.com/plywrks)
