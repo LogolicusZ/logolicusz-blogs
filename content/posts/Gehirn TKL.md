@@ -14,9 +14,12 @@ author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
   
 <p class="image-text">Photo by <a href="https://www.instagram.com/markerchun/">Markerchun</a></p>
   
-The Gehirn marked the return of Baionlenja to the customs scene. After getting scammed by his manufacturer on the GB of the Bias R2, many thought he would never return even after explaining his situation to his Discord members many were still doubtfull and believe that he just wanted to make an exit scamm. In recent time we have seen a multitude of exit scamms, that have turned the Hobby upside down, leaving many in a state of disbelief and distrust towards new vendors or even existing vendors. If you want to know more on the current exit scamm situation you might want to see [Taehatypes](https://www.youtube.com/watch?v=2fdSJgInpsg) video on this matter.
+The Gehirn marks Baionlenja's return to the customs scene. After being scammed by his manufacturer on the GB of the Bias R2, many thought he would never return. Despite explaining his situation to his Discord members, many remained skeptical and believed he intended to make an exit scam.
+
+In recent times, a multitude of exit scams have plagued the hobby, leaving many in a state of disbelief and distrust towards new and even existing vendors. If you want to learn more about the current exit scam situation, consider watching this video by [Taehatypes](https://www.youtube.com/watch?v=2fdSJgInpsg).
+
   
-As for Baion, Manu one of the most well known Vendor Manager decided to take him under his mantle and guide him to get out of his debt. The Gehirn marks the beginning of Baions retribution, as someone might say. As staited by Manu, his plan is to make new projects that are not run by Baionlenja directly but will be ran trough vendors so that people wouldnt feel like they would be scammed, again. 
+Regarding Baion, Manu, one of the most well-known vendor managers, has taken him under his wing to guide him out of debt. The Gehirn marks the beginning of Baion's redemption, as some might say. According to Manu, his plan is to create new projects that won't be run by Baionlenja directly but will be managed by vendors instead. This is to ensure that people won't feel like they're being scammed again.
 
 <div class="duo">
 <img src="/imgs/Gehirn-article/Gehirn1.jpeg" alt="Gehirn TKL Images" title="Alexotos" class="carImage"> 
@@ -24,20 +27,29 @@ As for Baion, Manu one of the most well known Vendor Manager decided to take him
 </div>
 <p class="image-text">Photo by <a href="https://www.instagram.com/alexotos/">Alexotos</a></p>
   
-Now lets talk about the design of the board. Its a classic F12 top mount board, that uses a classic design with refrences to HR Giger and Y2K asthetics.  
-The biggest point of interest on the board has to be the weight, showing of a extremly detailed engraving of a fossilised Alien. The board also features more engravings on the top of the board, inside and backside.
-   
-Also a very prominent feature of the board is Baions own "screw less" design the Baion bolts. On a typical screw less board there would be holes on the top and bottom of the PCB allowing you to screw together, many people dont like this since the screws can easily get lost inside of the case forcing you to open it all up again to get the one screw out. Baionbolts allow you to screw the case together the case on a 45° angle, also making it possible to use bigger screws, so that it is harder to loose the screws in the case.
+Now, let's discuss the design of the board. The Gehirn is a classic F12 top mount board that draws inspiration from HR Giger and Y2K aesthetics.
 
+The most striking feature of the board has to be its weight, which showcases an extremely detailed engraving of a fossilized alien. Additionally, the board features intricate engravings on the top, inside, and backside.
+   
+The Gehirn board also boasts Baion's unique "screw-less" design, the Baion bolts.
+
+Unlike traditional screw-less boards that have holes on the top and bottom of the PCB for screwing together, Baionbolts enable you to screw the case at a 45-degree angle. This design not only allows for the use of larger screws but also reduces the risk of losing screws inside the case.
+
+Many people appreciate this feature as it eliminates the need to open up the entire case just to retrieve a lost screw.
+  
 <img src="/imgs/Gehirn-article/Gehirn12.webp" alt="Gehirn TKL Images" title="Baionlenja" class="TitleImage">
   
 <p class="image-text">Photo by <a href="https://www.instagram.com/baionlenja">Baionlenja</a></p>
   
-The keyboard hobby has been moving more and more into the direction of instock sales, the Gehirn follows that trend as well. The board would have 2 rounds each with the own colors. So you only had that chance to buy the specific colors you wanted! R1 dropped with a total of 200 units with only WKL (Win Key Less) available, with vendors in 8 different regions, the boards were already produced and the preorder was open for 24h.
+The keyboard hobby has been shifting towards in-stock sales, and the Gehirn follows this trend. It will have two rounds, each with its own unique colors. This means that you will only have the opportunity to purchase the specific colors you want during each round.
+
+Round 1 offered a total of 200 units, all of which were WKL (Win Key Less) layouts. Vendors in eight different regions carried the board, and it was already produced before the preorder was opened for 24 hours.
   
-R2 will drop on the 15 may with a total number of 335 units available. Baion and Manu have also decided to add two more vendors and this time also having WK (Win Key) and HHKB (Happy Hacking Key Board) available besides WKL. The board will also have a two collabs, one being a collab with GMK Symbiote and another one with their own next project GMK Nerve. 
-  
-Those who have already joined R1, as well as those who will join R2, can look forward to a board that caters to a well-liked niche.
+On May 15, R2 will be released with 335 units available. Baion and Manu have added two more vendors for this round and will offer WK (Win Key), HHKB (Happy Hacking Keyboard), and WKL (Win Key Less) layouts.
+
+Additionally, the Gehirn will feature two collaborations: one with GMK Symbiote and another with their upcoming project, GMK Nerve.
+
+Both R1 participants and future R2 joiners can look forward to a board that caters to a popular niche.
 
 ## Sound Test
   
