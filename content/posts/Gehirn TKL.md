@@ -22,8 +22,8 @@ In recent times, a multitude of exit scams have plagued the hobby, leaving many 
 Regarding Baion, Manu, one of the most well-known vendor managers, has taken him under his wing to guide him out of debt. The Gehirn marks the beginning of Baion's redemption, as some might say. According to Manu, his plan is to create new projects that won't be run by Baionlenja directly but will be managed by vendors instead. This is to ensure that people won't feel like they're being scammed again.
 
 <div class="duo">
-<img src="/imgs/Gehirn-article/Gehirn1.jpeg" alt="Gehirn TKL Images" title="Alexotos" class="carImage"> 
-<img src="/imgs/Gehirn-article/Gehirn2.jpeg" alt="Gehirn TKL Images" title="Alexotos" class="carImage">
+<img src="/imgs/Gehirn-article/Gehirn1.jpeg" alt="Gehirn TKL Images" title="Alexotos" class="duoImage"> 
+<img src="/imgs/Gehirn-article/Gehirn2.jpeg" alt="Gehirn TKL Images" title="Alexotos" class="duoImage">
 </div>
 <p class="image-text">Photo by <a href="https://www.instagram.com/alexotos/">Alexotos</a></p>
   
