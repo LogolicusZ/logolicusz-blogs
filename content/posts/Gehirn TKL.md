@@ -33,7 +33,7 @@ The most striking feature of the board has to be its weight, which showcases an 
    
 The Gehirn board also boasts Baion's unique "screw-less" design, the Baion bolts.
 
-Unlike traditional screw-less boards that have holes on the top and bottom of the PCB for screwing together, Baionbolts enable you to screw the case at a 45-degree angle. This design not only allows for the use of larger screws but also reduces the risk of losing screws inside the case.
+Unlike traditional screw-less boards that have holes on the top and bottom of the PCB and plate for screwing the case together, Baionbolts enable you to screw the case at a 45-degree angle back together. This design not only allows for the use of larger screws but also reduces the risk of losing screws inside the case.
 
 Many people appreciate this feature as it eliminates the need to open up the entire case just to retrieve a lost screw.
   
