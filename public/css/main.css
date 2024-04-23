@@ -101,9 +101,12 @@ img {
 }
 
 .TitleImage {
-  max-width: 110%;
+  max-width: 100%;
 }
 
+.carImage {
+  max-width: 40%;
+}
 
 figure {
   box-sizing: border-box;
@@ -268,6 +271,9 @@ article .title {
   margin-bottom: 1em;
 }
 
+.article {
+  display: flex;
+}
 /* Callout */
 .callout {
   background-color: var(--callouctcolor);
