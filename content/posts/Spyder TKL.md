@@ -1,7 +1,7 @@
 +++
 title = "Spyder TKL"
 date = "2024-04-21"
-description = "Read more about the Spyder TKL and its Inspirations"
+description = "The Spyder TKL and its Inspirations"
 
 [taxonomies]
 tags = ["showcase","keyboards"]
