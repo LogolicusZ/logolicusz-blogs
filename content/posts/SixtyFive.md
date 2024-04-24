@@ -55,7 +55,7 @@ Following this, we can see how Mode has implemented this concept into all of the
   
 Now, let's talk about the New SixtyFive. It combines the aesthetics of the old SixtyFive with modern internals and a preference for new colors and materials. The board boasts the same mounting system that was introduced in the Envoy: lattice mounts. They are a type of gasket mount that allows for different typing feelings and also works for creating an isolated topmount.
 
-<img src="/imgs/SixtyFive-article/Latticemount.png" alt="lattice mount" title="lattice mount" class="controlflex"> 
+<img src="/imgs/SixtyFive-article/Latticemount.png" alt="lattice mount" title="lattice mount" class="control"> 
 
 <p class="image-text">Photo by <a href="https://modedesigns.com/pages/sixtyfive">Mode Designs</a></p>
 
