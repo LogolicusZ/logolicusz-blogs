@@ -7,6 +7,7 @@ description = "The importance of brand design"
 tags = ["showcase","keyboards"]
 
 [extra]
+banner = { path = "/imgs/SixtyFive-article/SixtyFive6.jpg", alt = "Post Banner" }
 author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 +++
 

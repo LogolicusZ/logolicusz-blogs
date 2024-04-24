@@ -34,6 +34,12 @@
             {% endif %}
 
             <br />
+
+            {% if page.extra.banner %}
+                <img src="{{ page.extra.banner.path }}" alt="{{page.extra.banner.alt}}" class="post-banner" />
+                <br />
+            {% endif %}
+
             <div class="description">
                 {% if page.description %}
                     {{ page.description }}

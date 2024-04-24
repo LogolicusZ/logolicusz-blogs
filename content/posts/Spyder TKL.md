@@ -7,6 +7,7 @@ description = "The Spyder TKL and its Inspirations"
 tags = ["showcase","keyboards"]
 
 [extra]
+banner = { path = "/imgs/Spyder-article/Spyder5.jpeg", alt = "Post Banner" }
 author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 +++
 
