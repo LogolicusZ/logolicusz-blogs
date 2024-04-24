@@ -72,6 +72,6 @@ I think that Mode has done a fabulous job with the new SixtyFive, allowing for a
 
 ## Socials
 
-Mode Designs[ Website](https://modedesigns.com/)
+Mode Designs[Website](https://modedesigns.com/)
 
 Mode Designs [Instagram](https://www.instagram.com/modekeyboards/s)
