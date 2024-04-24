@@ -23,12 +23,12 @@ In 2021, they released the original SixtyFive, which was well received for its b
 Mode Designs collaborated with [Mod Musings](https://www.instagram.com/mod.musings/) for the first time on the SixtyFive, creating beautiful wood accents for the board.
 
 <div class="triple">
-<img src="/imgs/SixtyFive-article/SixtyFive-details-2.webp" alt="Gehirn TKL Images" title="Alexotos" class="tripleImage"> 
-<img src="/imgs/SixtyFive-article/SixtyFive-details-4.webp" alt="Gehirn TKL Images" title="Alexotos" class="tripleImage">
-<img src="/imgs/SixtyFive-article/SixtyFive-details-1.webp" alt="Gehirn TKL Images" title="Alexotos" class="tripleImage">
+<img src="/imgs/SixtyFive-article/SixtyFive-details-2.png" alt="Mode Designs" title="Mode Designs" class="tripleImage"> 
+<img src="/imgs/SixtyFive-article/SixtyFive-details-4.png" alt="Mode Designs" title="Mode Designs" class="tripleImage">
+<img src="/imgs/SixtyFive-article/SixtyFive-details-1.png" alt="Mode Designs" title="Mode Designs" class="tripleImage">
 </div>
 
-<p class="image-text">Photo by <a href="https://www.instagram.com/extrapriusplease.kb/">Extrapriusplease</a></p> 
+<p class="image-text">Photo by <a href="https://modedesigns.com/pages/sixtyfive">Mode Designs</a></p>
   
 After the SixtyFive came the Sonnet, which is Mode Designs most well-known design to date. Like the SixtyFive, the Sonnet had an accent bar at the top. However, the Sonnet also marked the start of Mode Designs modern design language. While both boards had similar aesthetics, the Sonnet established certain design aspects that would be seen again in the future.
 
