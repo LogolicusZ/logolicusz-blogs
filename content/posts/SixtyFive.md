@@ -20,8 +20,6 @@ In 2020, they released their first keyboard the Mode Eighty, which was updated i
 
 In 2021, they released the original SixtyFive, which was well received for its bold design and generous amounts of customization. After three years, the company decided to revisit the feedback they had received on the original keyboard. As Mode states, this project has been a labor of love for them, showcasing their passion for keyboards and their own designs. The new SixtyFive returns with an updated design while staying true to its roots.
 
-Mode Designs collaborated with [Mod Musings](https://www.instagram.com/mod.musings/) for the first time on the SixtyFive, creating beautiful wood accents for the board.
-
 <div class="triple">
 <img src="/imgs/SixtyFive-article/SixtyFive1.png" alt="Mode Designs" title="Mode Designs" class="tripleImage"> 
 <img src="/imgs/SixtyFive-article/SixtyFive2.png" alt="Mode Designs" title="Mode Designs" class="tripleImage">
@@ -30,7 +28,9 @@ Mode Designs collaborated with [Mod Musings](https://www.instagram.com/mod.musin
 
 <p class="image-text">Photo by <a href="https://modedesigns.com/pages/sixtyfive">Mode Designs</a></p>
 
-After the SixtyFive came the Sonnet, which is Mode Designs most well-known design to date. Like the SixtyFive, the Sonnet had an accent bar at the top. However, the Sonnet also marked the start of Mode Designs modern design language. While both boards had similar aesthetics, the Sonnet established certain design aspects that would be seen again in the future.
+After the SixtyFive came the Sonnet, which is Mode Designs most well-known design to date. Like the SixtyFive, the Sonnet had an accent bar at the top. However, the Sonnet also marked the start of Mode Designs modern design language. While both boards had similar aesthetics, the Sonnet established certain design aspects that would be seen again in the future
+
+Mode partnered with [Mod Musings](https://www.instagram.com/mod.musings/) to create stunning oak accents for the Sonnet. This collaboration marked the beginning of Mode's journey to design more beautiful wooden accents for their future boards.
 
 But what sets Mode Designs apart from others? They were one of the first vendors to create a full in-stock experience for buyers. When Mode released a board, they would typically have a pre-order window, allowing all who want the keyboard to get it in the configuration they want.
 
