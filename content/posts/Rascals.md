@@ -61,7 +61,9 @@ Afresh also had help from his friend Angelo while working on this set. They coll
 
 The IC (Interest Check) was fast-tracked on purpose since Afresh did not know if this was going to lead anywhere. Before posting the IC, he was already in talks with a US vendor, but after getting quotes that the vendor thought were too high, they dropped the project. After this, it stayed in a sort of limbo for around three months.
 
-While having the IC open, Afresh was looking for more vendors that would like to run the set. At the moment, it is not known which ones yet, at the same time Afresh is working closely together with GMK. They significantly shortened the process of color matching, which usually would take a long time, especially when using non-standard GMK colors.
+While having the IC open, Afresh was looking for more vendors that would like to run the set. At the moment, it is not known which ones yet, at the same time Afresh is working closely together with GMK. 
+
+They significantly shortened the process of color matching, which usually would take a long time, especially when using non-standard GMK colors.
 
 He is expecting to receive the color samples very soon, while also expecting to update the IC with the vendors that are going to run the set and some new renders.
 
