@@ -52,10 +52,10 @@ He chose to use a dark burgundy, since it still allowed for a clean aesthetic of
 
 After deciding on the colors of the set, he went straight to working on the novelties of the set. These were inspired by old cartoons like Tom and Jerry or the Coyote and the Roadrunner. These cartoons often had their characters take crazy poses like being electrocuted or having an anvil falling on their head.
 
-After this, he worked on creating renders for the set. For this, he used Blender, which is the most used tool for rendering in the hobby. To streamline the process of creating the renders, he used the Keyboard Render Kit 2, which is a focused UI layout arranged to present useful tools and content to help anyone who wants to create a keycap set. This tool was created by .
+After this, he worked on creating renders for the set. For this, he used Blender, which is the most used tool for rendering in the hobby. To streamline the process of creating the renders, he used the Keyboard Render Kit 2, which is a focused UI layout arranged to present useful tools and content to help anyone who wants to create a keycap set. This tool was created by [Imperfectlink](https://imperfectlink.gumroad.com/l/KRK2?layout=profile).
 
 <img src="/imgs/Rascals/MTNU-10.png" alt="Keyboard Rendering kit 2" title="Rascals" class="TitleImage">
-<p class="image-text">Renders by <a href="https://www.instagram.com/gmk_keycaps/">GMK</a></p>
+<p class="image-text">Renders by <a href="https://imperfectlink.gumroad.com/l/KRK2?layout=profile">Imperfectlink</a></p>
 
 Afresh also had help from his friend Angelo while working on this set. They collaborated before on another set called PBTfans .
 
