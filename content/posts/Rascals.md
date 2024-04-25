@@ -30,9 +30,9 @@ GMK and Matt3o, while in the process of trying out various blends (PBT and ABS) 
 After this, the first released sets with the new MTNU profile were classics like Susu (Susuwatari), Beige, and WoB (White on Black).
 
 <div class="triple">
-<img src="/imgs/Rascals/MTNU-7.webp" alt="Mode Designs" title="Mode Designs" class="tripleImage"> 
-<img src="/imgs/Rascals/MTNU-8.webp" alt="Mode Designs" title="Mode Designs" class="tripleImage">
-<img src="/imgs/Rascals/MTNU-9.webp" alt="Mode Designs" title="Mode Designs" class="tripleImage">
+<img src="/imgs/Rascals/MTNU-7.webp" alt="Image by GMK" title="Image by GMK" class="tripleImage"> 
+<img src="/imgs/Rascals/MTNU-8.webp" alt="Image by GMK" title="Image by GMK" class="tripleImage">
+<img src="/imgs/Rascals/MTNU-9.webp" alt="Image by GMK" title="Image by GMK" class="tripleImage">
 </div>
 
 <p class="image-text">Renders by <a href="https://www.instagram.com/gmk_keycaps/">GMK</a></p>
