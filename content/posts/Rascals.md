@@ -57,7 +57,7 @@ After this, he worked on creating renders for the set. For this, he used Blender
 <img src="/imgs/Rascals/MTNU-10.png" alt="Keyboard Rendering kit 2" title="Rascals" class="TitleImage">
 <p class="image-text">Renders by <a href="https://imperfectlink.gumroad.com/l/KRK2?layout=profile">Imperfectlink</a></p>
 
-Afresh also had help from his friend Angelo while working on this set. They collaborated before on another set called PBTfans .
+Afresh also had help from his friend Angelo while working on this set. They collaborated before on another set called PBTfans [Poco](https://kbdfans.com/products/pbtfans-poco).
 
 The IC (Interest Check) was fast-tracked on purpose since Afresh did not know if this was going to lead anywhere. Before posting the IC, he was already in talks with a US vendor, but after getting quotes that the vendor thought were too high, they dropped the project. After this, it stayed in a sort of limbo for around three months.
 
