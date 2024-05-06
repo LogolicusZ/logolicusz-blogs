@@ -42,7 +42,7 @@ Randall wanted the Protagonist to have a deceivingly simple profile, yet still b
 <img src="/imgs/protagonist-article/protagonist-2.jpg" alt="Image of Protagonist" title="Image of Protagonist" class="duoImage">
 </div>
  <p class="image-text">Photos by <a href="https://www.instagram.com/extrapriusplease.kb/">Extrpriusplease.kb</a></p>
-After bringing the design to life, hobbyists saw that they could personalize their design. Randall went through multiple ideas until he landed on the idea of making the entire top case an accent. Initially, he thought it was a silly idea, but after reworking it, he realized it would contrast the top case, which he liked since he's a fan of "two-tone" designs and mixing materials.
+After bringing the design to life, hobbyists saw that they could personalize their design. Randall first started with an idea of having a two-toned and a customizable top case, but he thought this didn't really match his vision since it wasn't really a customization feature or very unique. He wanted to blend the materials in a way that it would also be visible from the top, thus. This led to the use of the bezels to mix with the surrounding area of the keys. This smaller size also allowed for more the idea of it being an "accent", as well as personifying the intentionality behind mixing materials.
 
 As he refined the design, he noticed that the top case accent turned into a sort of picture frame surrounding the keys. 
 
