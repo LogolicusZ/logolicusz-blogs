@@ -8,11 +8,11 @@ description = "The Return of Baionlenja"
 tags = ["showcase","keyboards"]
 
 [extra]
-banner = { path = "/imgs/Gehirn-article/Gehirn9.heic", alt = "Post Banner" }
+banner = { path = "/imgs/Gehirn-article/Gehirn13.jpg", alt = "Post Banner" }
 author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 +++
 
-<img src="/imgs/Gehirn-article/Gehirn9.heic" alt="Gehirn TKL Images" title="Markerchun" class="TitleImage">
+<img src="/imgs/Gehirn-article/Gehirn13.jpg" alt="Gehirn TKL Images" title="Markerchun" class="TitleImage">
 
 <p class="image-text">Photo by <a href="https://www.instagram.com/markerchun/">Markerchun</a></p>
 
