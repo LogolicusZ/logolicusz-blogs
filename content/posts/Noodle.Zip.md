@@ -12,9 +12,6 @@ banner = { path = "/imgs/Noodle/noodle1.jpg", alt = "Post Banner" }
 author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 +++
 
-# Noodle.zip 
-
-
 <img src="/imgs/Noodle/noodle2.jpg" alt="Noodle.Zip photo" title="Vinnyy.zip" class="TitleImage">
 
 <p class="image-text">Photo by <a href="https://www.instagram.com/vinnyy.zip/">Vinnyy.zip</a></p>
@@ -48,6 +45,6 @@ I was lucky to be able to pick up a Noodle.zip recently, and I have been loving 
 
 Even though I'm not the biggest fan of K-pop in general, I do really enjoy all of the detail and engravings the board has. The only criticisms I would have are that the plate does not support split right shift and split backspace. However, I have to say that I am pleasantly surprised that it has ISO support.
 
-## Sound test.
+## Sound test
 
 <iframe  src="https://www.youtube.com/embed/IjuxaEPsfsY?si=ziEF2AUV5weX4MTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
