@@ -8,32 +8,32 @@ description = "A interesting backstory"
 tags = ["showcase","keyboards"]
 
 [extra]
-banner = { path = "/imgs/Noodle/noodle1.jpg", alt = "Post Banner" }
+banner = { path = "/imgs/Noodle/noodle7.jpg", alt = "Post Banner" }
 author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 +++
 
-<img src="/imgs/Noodle/noodle2.jpg" alt="Noodle.Zip photo" title="Vinnyy.zip" class="TitleImage">
+<img src="/imgs/Noodle/noodle7.jpg" alt="Noodle.Zip photo" title="logolicusz" class="TitleImage">
 
-<p class="image-text">Photo by <a href="https://www.instagram.com/vinnyy.zip/">Vinnyy.zip</a></p>
+<p class="image-text">Photo by <a href="https://www.instagram.com/logolicusz/">LogolicusZ</a></p>
 
 The Noodle.Zip is a limited-edition keyboard (only 30 units were produced) that was originally raffled in 2023, inspired by K-pop Idol Cho Miyeon from the group (G)I-DLE, who is also known as "noodle.zip" on Instagram. 
 
 The keyboard's design includes various engravings that reference Miyeon, such as her name in Korean and her well-known Instagram profile picture.
 
 <div class="duo">
-<img src="/imgs/Noodle/noodle5.jpg" alt="Noodle.Zip photo" title="Swekeebs" class="duoImage"> 
-<img src="/imgs/Noodle/noodle6.jpg" alt="Noodle.Zip photo" title="Swekeebs" class="duoImage">
+<img src="/imgs/Noodle/noodle16.jpg" alt="Noodle.Zip photo" title="LogolicusZ" class="duoImage"> 
+<img src="/imgs/Noodle/noodle18.jpg" alt="Noodle.Zip photo" title="LogolicusZ" class="duoImage">
 </div>
 
-<p class="image-text">Photos by <a href="https://www.instagram.com/swekeebs/">Swekeebs</a></p>
+<p class="image-text">Photos by <a href="https://www.instagram.com/logolicusz/">LogolicusZ</a></p>
 
 The Noodle.Zip is a classic F12, WKL keyboard with a typing angle of 6 degrees and a front height of 18.5mm. It is a two-piece design, featuring an internal brass weight that is visible from the back. 
 
 The keyboard's color is misty lilac, which can appear pale or saturated depending on the lighting.
 
-<img src="/imgs/Noodle/noodle4.jpg" alt="Noodle.Zip photo" title="dnworksco" class="control"> 
+<img src="/imgs/Noodle/noodle8.jpg" alt="Noodle.Zip photo" title="LogolicusZ" class="control"> 
 
-<p class="image-text">Photo by <a href="https://www.instagram.com/dnworksco/">dnworksco</a></p>
+<p class="image-text">Photo by <a href="https://www.instagram.com/logolicusz/">LogolicusZ</a></p>
 
 The raffled version of the Noodle.Zip came with a Mechlovin X DNworks PCB, but any PCB with a JST on the right side will work. The board is top-mounted and can also be O-ring mounted. 
 
