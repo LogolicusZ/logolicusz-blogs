@@ -80,7 +80,7 @@ If you're interested in following the project's progress, consider joining the D
 
 Once the engraving design is complete, I hope to order a prototype around August or September.
 
-Thank you for reading this article. I hope you found it enjoyable and perhaps even inspiring to start your own projects!
+Thank you for reading this article. I hope you found it enjoyable and perhaps even inspiring you to start your own projects!
 
 ## Links
 rbrwrks [Instagram](https://www.instagram.com/rbrwrks/)
