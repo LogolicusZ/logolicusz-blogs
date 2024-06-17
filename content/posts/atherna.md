@@ -16,7 +16,7 @@ author = { name = "LogolicusZ", social= "https://www.instagram.com/logolicusz" }
 
 <p class="image-text">Render by <a href="https://www.instagram.com/logolicusz/">LogolicusZ</a></p>
 
-## Introduccion
+## Introduction
 
 I never thought that there would be a day where I would be creating my own keyboard. I joined this wonderful hobby around 5 years ago, and I am more invested in it than ever before.
 
@@ -42,7 +42,7 @@ I started designing a basic F12 TKL, which was my first time using CAD software.
 
 During this process, I realized that I might not have enough knowledge to create a design that I would be fully satisfied with. At the same time, I was rebranding and exploring a Rubber Hose style for my logo.
 
-I am currently studying to become a system administrator and am surrounded by tech-savvy individuals. One of them is a fan of open-source projects, we have worked together on many projects one of them being [explorecraft](https://explorecraft.net). This led me to explore open-source keyboard designs, and I was particularly impressed by the work of Shy and Hali. I studied their designs and recreated some of them to learn how to create similar features.
+I am currently studying to become a system administrator and am surrounded by tech-savvy individuals. One of them is a fan of open-source projects, we have worked together on many projects one of them being [Explorecraft](https://explorecraft.net). This led me to explore open-source keyboard designs, and I was particularly impressed by the work of Shy and Hali. I studied their designs and recreated some of them to learn how to create similar features.
 
 A few months ago, I fell in love with the SBL by DNworks. I was drawn to its simple design and unique language. While researching open-source designs, I came across Hali's [Keebmas 2022 collection](https://github.com/hali4045/keebsmas-2022). One of the keyboards, the Wedge, has a similar design to the SBL, but without the engravings and with a different mount.
 
@@ -70,7 +70,7 @@ Secondly, the hands form a "Z." This is a reference to my username, "logolicusZ,
 
 <p class="image-text">Image by <a href="https://www.instagram.com/logolicusz/">LogolicusZ</a></p>
 
-## conclusion
+## Conclusion
 
 This project has been a lot of fun for me, as it allows me to combine many of my interests. There are still a few things I would like to do, such as adding an engraving on the back. I'm currently working on the design, so stay tuned for that!
 
@@ -84,4 +84,5 @@ Thank you for reading this article. I hope you found it enjoyable and perhaps ev
 
 ## Links
 rbrwrks [Instagram](https://www.instagram.com/rbrwrks/)
+
 rbrwrks [Discord](https://discord.com/invite/DC6RCWmgNd)
