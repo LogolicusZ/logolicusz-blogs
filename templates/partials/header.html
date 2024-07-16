@@ -78,7 +78,7 @@
     {% endif %}
 
     {# if need icon, load feather.js #}
-    {% if config.extra      social and config.extra.useCDN | default(value=false) %}
+    {% if config.extra.social and config.extra.useCDN | default(value=false) %}
         <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
     {% elif config.extra.social or config.extra.mode == "toggle" %}
         <script src={{ get_url(path="js/feather.min.js") }}></script>
